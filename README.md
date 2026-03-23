@@ -78,7 +78,7 @@ Double-clic sur `Win11-CleanUp.bat` — la demande UAC s'affiche, tu valides, c'
 ```
 📦 Win11-Debloater/
 ├── Win11-CleanUp.ps1   ← Script principal (UTF-8 BOM)
-├── Launch.bat          ← Lanceur double-clic
+├── Win11-CleanUp.bat          ← Lanceur double-clic
 └── README.md           ← Ce fichier
 ```
 
