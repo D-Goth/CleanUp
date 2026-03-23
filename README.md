@@ -10,7 +10,7 @@ Supprime le bloatware, désactive la télémétrie, Xbox, OneDrive, Copilot, Rec
 > ⚠️ **Droits administrateur obligatoires** — le script modifie le registre et des services système.
 
 ### Méthode recommandée
-Double-clic sur `Launch.bat` — la demande UAC s'affiche, tu valides, c'est parti.
+Double-clic sur `Win11-CleanUp.bat` — la demande UAC s'affiche, tu valides, c'est parti.
 
 ### Méthode alternative
 **Clic droit** sur `Win11-CleanUp.ps1` → **"Exécuter avec PowerShell"**, puis valider l'UAC.
