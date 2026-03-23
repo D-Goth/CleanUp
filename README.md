@@ -1,5 +1,5 @@
 # Black-Lab Windows CleanUp v2.0
-**Black-Lab.fr** — Outil de nettoyage de Windows 10/11
+**CleanUp** — Outil de nettoyage de Windows 10/11
 
 Supprime le bloatware, désactive la télémétrie, Xbox, OneDrive, Copilot, Recall et les publicités intégrées à Windows — via une interface graphique simple.
 
