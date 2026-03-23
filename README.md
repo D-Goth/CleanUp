@@ -15,7 +15,7 @@ Double-clic sur `Launch.bat` — la demande UAC s'affiche, tu valides, c'est par
 ### Méthode alternative
 **Clic droit** sur `Win11-CleanUp.ps1` → **"Exécuter avec PowerShell"**, puis valider l'UAC.
 
-> ⚠️ **Encodage** — le fichier `.ps1` doit rester en **UTF-8 avec BOM**. Si tu l'édites dans Notepad++, vérifie via *Encodage → UTF-8 avec BOM*. VS Code le gère nativement.
+> ⚠️ **Encodage** — le fichier `.ps1` doit rester en **UTF-8 avec BOM**.
 
 ---
 
